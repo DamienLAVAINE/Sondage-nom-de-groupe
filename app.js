@@ -9,13 +9,13 @@ import {
 
 // Configuration Firebase du projet.
 const firebaseConfig = {
-  apiKey: "AIzaSyCEM5p5cysZsALaZy9EwCLuHXtG12Pkyg0M",
-  authDomain: "lled-vote.firebaseapp.com",
-  projectId: "lled-vote",
-  storageBucket: "lled-vote.firebasestorage.app",
-  messagingSenderId: "819365129476",
-  appId: "1:819365129476:web:2662e25800bc4bb2903451",
-  measurementId: "G-N336X6D2LP"
+  apiKey: "AIzaSyDdbKpqh6xmmfrE5xsDsiQe5Tn3Xl3JNjk",
+  authDomain: "vote-nom-de-groupe.firebaseapp.com",
+  projectId: "vote-nom-de-groupe",
+  storageBucket: "vote-nom-de-groupe.firebasestorage.app",
+  messagingSenderId: "677311822553",
+  appId: "1:677311822553:web:9a1b68950cb1a92ea31cc8"
+
 };
 
 const COLLECTION_NAME = "bandNames";
