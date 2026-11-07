@@ -15,7 +15,6 @@ const firebaseConfig = {
   storageBucket: "vote-nom-de-groupe.firebasestorage.app",
   messagingSenderId: "677311822553",
   appId: "1:677311822553:web:9a1b68950cb1a92ea31cc8"
-
 };
 
 const COLLECTION_NAME = "bandNames";
